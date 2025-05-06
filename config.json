@@ -1,0 +1,16 @@
+{
+  "token": "TOKEN",
+  "clientId": "BOT_ID",
+  "guildId": "GUILD_ID",
+  "prefix": "PREFIX",
+  "status": {
+    "type": "PLAYING",
+    "name": "RPC_MESSAGE"
+  },
+  "spotify": {
+    "footerText": "discord.gg/codejs",
+    "requireRole": false,
+    "roleId": "ACCESS_ROLE_ID",
+    "deleteDuration": 50000
+  }
+}

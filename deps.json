@@ -1,0 +1,20 @@
+﻿{
+  "name": "lightningpremium",
+  "dependencies": {
+    "discord-html-transcripts": {
+      "version": "3.2.0",
+      "resolved": "https://registry.npmjs.org/discord-html-transcripts/-/discord-html-transcripts-3.2.0.tgz",
+      "overridden": false
+    },
+    "discord.js": {
+      "version": "14.18.0",
+      "resolved": "https://registry.npmjs.org/discord.js/-/discord.js-14.18.0.tgz",
+      "overridden": false
+    },
+    "moment": {
+      "version": "2.30.1",
+      "resolved": "https://registry.npmjs.org/moment/-/moment-2.30.1.tgz",
+      "overridden": false
+    }
+  }
+}
